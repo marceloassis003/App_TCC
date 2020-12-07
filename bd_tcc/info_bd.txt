@@ -1,0 +1,25 @@
+dominio - raingate.esy.es
+
+
+dados banco 
+host: mysql669.umbler.com
+usuario : adminraingate
+senha: 1234abcde
+
+
+login proprietario: 39247982000156 (cpnj)
+
+senha: 1234
+
+
+ 000host 
+
+site: http://raingate.ga/
+
+senha: 12345abcde
+
+bd 
+
+banco: id15057980_bd_raingate
+usuario banco: adminraingate
+senha: nh?^+MG9D6!_8yg0
